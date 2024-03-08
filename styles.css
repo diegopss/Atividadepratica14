@@ -1,0 +1,22 @@
+/* Adicione estilos personalizados aqui */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .jumbotron {
+    background-color: #f8d7da;
+    padding: 2rem;
+    margin-bottom: 0;
+  }
+  
+  .container {
+    margin-top: 2rem;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
